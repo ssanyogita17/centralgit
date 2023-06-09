@@ -1,2 +1,10 @@
-Ham sb
-ls
+wahh pull bhi kr lia
+
+ab code likhte h
+
+int a, b;
+a=5;
+b=9;
+int S=sum;
+s = a + b;
+exit;
